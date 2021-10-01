@@ -1,2 +1,2 @@
 # Hackthehacktoberfest2021
-this is a hacking repository.
+This is a hacktoberfest repository.
